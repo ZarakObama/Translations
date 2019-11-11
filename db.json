@@ -2,32 +2,32 @@
 	"translations": [{
 		"locale": "en",
 		"messages": {
-			"translate.welcome": "Welcome",
-			"translate.home": "Home",
-			"translate.about": "About us",
-			"translate.contact": "Contact",
-			"translate.language": "Language",
-			"translate.users": "Users"
+			"welcome": "Welcome",
+			"home": "Home",
+			"about": "About us",
+			"contact": "Contact",
+			"language": "Language",
+			"users": "Users"
 		}
 	}, {
 		"locale": "de",
 		"messages": {
-			"translate.welcome": "Willkommen",
-			"translate.home": "Startseite",
-			"translate.about": "Impressum",
-			"translate.contact": "Kontakt",
-			"translate.language": "Sprache",
-			"translate.users": "Benutzer"
+			"welcome": "Willkommen",
+			"home": "Startseite",
+			"about": "Impressum",
+			"contact": "Kontakt",
+			"language": "Sprache",
+			"users": "Benutzer"
 		}
 	}, {
 		"locale": "nl",
 		"messages": {
-			"translate.welcome": "Welkom",
-			"translate.home": "Home",
-			"translate.about": "Impressum",
-			"translate.contact": "Contact",
-			"translate.language": "Taal",
-			"translate.users": "Gebruikers"
+			"welcome": "Welkom",
+			"home": "Home",
+			"about": "Impressum",
+			"contact": "Contact",
+			"language": "Taal",
+			"users": "Gebruikers"
 		}
 	}]
 }
